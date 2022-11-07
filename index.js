@@ -7,8 +7,13 @@ Chromium: 102.0.5005.167
 Node.js: 16.14.2
 V8: 10.2.154.15-electron.0
 OS: Darwin x64 22.1.0
-Sandboxing: No
+Sandboxed: No
  */
+
+/*
+VSCode ESLint v2.2.6
+VSCode Prettier v9.9.0
+*/
 
 // Indent cannot be fixed when saving, and ^5 to ^7 do fine.
   const foo = 'foo'
